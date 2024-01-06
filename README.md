@@ -14,7 +14,7 @@ LRU Cache NPM Package is a simple and efficient implementation of a Least Recent
 
 Install the package using npm:
 
-npm i lru-cache-bysakshi
+`npm i lru-cache-bysakshi`
 
 Usage
 Example usage of the LRUCache class:
