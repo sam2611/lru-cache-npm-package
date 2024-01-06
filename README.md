@@ -19,9 +19,9 @@ npm i lru-cache-bysakshi
 Usage
 Example usage of the LRUCache class:
 
-javascript
-Copy code
-const { LRUCache } = require('lru-cache-npm-package');
+### javascript
+
+```const { LRUCache } = require('lru-cache-npm-package');
 
 // Create an LRUCache with a capacity of 3
 const cache = new LRUCache(3);
@@ -30,7 +30,8 @@ const cache = new LRUCache(3);
 cache.put(1, 'value1');
 cache.put(2, 'value2');
 console.log(cache.get(1)); // Output: 'value1'
-For more details on usage and API, see the full documentation.
+```
+
 
 ## API Reference
 LRUCache(capacity: number)
@@ -57,9 +58,6 @@ Contributions are welcome! Read the Contributing Guidelines for more details.
 
 ## License
 This project is licensed under the MIT License.
-
-## Version History
-See Changelog for release notes and version history.
 
 ## Dependencies
 None
