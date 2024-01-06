@@ -3,6 +3,8 @@
 [![npm version](https://img.shields.io/npm/v/lru-cache-bysakshi)](https://www.npmjs.com/package/lru-cache-bysakshi)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/lru-cache-bysakshi/blob/main/LICENSE)
 
+<img src="https://github.com/sam2611/lru-cache-npm-package/blob/main/Screenshot%202024-01-06%20140156.png"/>
+
 
 ## Overview
 
