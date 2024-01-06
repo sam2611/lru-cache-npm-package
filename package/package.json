@@ -1,0 +1,12 @@
+{
+  "name": "lru-cache",
+  "version": "1.0.0",
+  "description": "designing a data structure known as an LRU (Least Recently Used) cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["lru", "cache", "npm"],
+  "author": "Sakshi",
+  "license": "MIT"
+}
